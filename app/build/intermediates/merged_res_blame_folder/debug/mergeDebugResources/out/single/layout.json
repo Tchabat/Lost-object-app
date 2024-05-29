@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.franck.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.example.franck.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.franck.app-mergeDebugResources-44:/layout/fragment_gallery.xml",
+        "source": "com.example.franck.app-main-47:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.franck.app-mergeDebugResources-44:/layout/app_bar_main.xml",
+        "source": "com.example.franck.app-main-47:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.franck.app-mergeDebugResources-44:/layout/fragment_home.xml",
+        "source": "com.example.franck.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.franck.app-mergeDebugResources-44:/layout/activity_main2.xml",
+        "source": "com.example.franck.app-main-47:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.franck.app-mergeDebugResources-44:/layout/detail.xml",
+        "source": "com.example.franck.app-main-47:/layout/detail.xml"
+    },
+    {
+        "merged": "com.example.franck.app-mergeDebugResources-44:/layout/nav_header_main.xml",
+        "source": "com.example.franck.app-main-47:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.franck.app-mergeDebugResources-44:/layout/fragment_slideshow.xml",
+        "source": "com.example.franck.app-main-47:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.franck.app-mergeDebugResources-44:/layout/content_main.xml",
+        "source": "com.example.franck.app-main-47:/layout/content_main.xml"
+    }
+]

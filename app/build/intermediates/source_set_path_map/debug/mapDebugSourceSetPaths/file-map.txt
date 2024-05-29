@@ -1,0 +1,48 @@
+com.example.franck.app-lifecycle-runtime-ktx-release-0 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\04a9ddb53be7fd9f52be37deeebc7df6\transformed\lifecycle-runtime-ktx-release\res
+com.example.franck.app-navigation-runtime-2.7.7-1 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\06b658a4e3cb16d20514cca5bdbd967b\transformed\navigation-runtime-2.7.7\res
+com.example.franck.app-window-1.0.0-2 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\res
+com.example.franck.app-lifecycle-runtime-release-3 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\09b5e54cceb5e05083b7440ab95abf0c\transformed\lifecycle-runtime-release\res
+com.example.franck.app-lifecycle-livedata-ktx-2.8.0-4 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\0ce8f5d696bf0045ea966bec0e14db7b\transformed\lifecycle-livedata-ktx-2.8.0\res
+com.example.franck.app-appcompat-resources-1.6.1-5 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1747f00a6186a1f86cdf0ee556cfa634\transformed\appcompat-resources-1.6.1\res
+com.example.franck.app-coordinatorlayout-1.1.0-6 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1c22a674eca2cbbf8660c37c1aa2bb1b\transformed\coordinatorlayout-1.1.0\res
+com.example.franck.app-navigation-ui-2.7.7-7 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1eb0c8b8506fb36ecda6ce2b515dd451\transformed\navigation-ui-2.7.7\res
+com.example.franck.app-lifecycle-livedata-core-2.8.0-8 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\20b4e6f9e655fe0658b34d4f19ed397b\transformed\lifecycle-livedata-core-2.8.0\res
+com.example.franck.app-material-1.10.0-9 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2a585a040c792027881de287eeec1e8c\transformed\material-1.10.0\res
+com.example.franck.app-fragment-ktx-1.6.2-10 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2df2424a1bb235a0436d0d538a47165d\transformed\fragment-ktx-1.6.2\res
+com.example.franck.app-navigation-fragment-2.7.7-11 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2ebcee769a049a96b4481bfd27443209\transformed\navigation-fragment-2.7.7\res
+com.example.franck.app-lifecycle-livedata-core-ktx-2.8.0-12 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\33a6995c7357cebec48be50fc927aa74\transformed\lifecycle-livedata-core-ktx-2.8.0\res
+com.example.franck.app-emoji2-1.2.0-13 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\res
+com.example.franck.app-lifecycle-viewmodel-release-14 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\43bc41625d8edc3d61818fb398a693de\transformed\lifecycle-viewmodel-release\res
+com.example.franck.app-lifecycle-viewmodel-savedstate-2.8.0-15 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\475a26f1762d9188a369c23d2df35a26\transformed\lifecycle-viewmodel-savedstate-2.8.0\res
+com.example.franck.app-startup-runtime-1.1.1-16 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4c7ea72a34f436debc10f03509b03a73\transformed\startup-runtime-1.1.1\res
+com.example.franck.app-navigation-common-2.7.7-17 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\527eb1d425750f10714bdb039e78558f\transformed\navigation-common-2.7.7\res
+com.example.franck.app-constraintlayout-2.1.4-18 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\58fdc3b2c388227c83b546373326c838\transformed\constraintlayout-2.1.4\res
+com.example.franck.app-lifecycle-viewmodel-ktx-2.8.0-19 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\59369656d09d8a2b38c8b720bd5e297e\transformed\lifecycle-viewmodel-ktx-2.8.0\res
+com.example.franck.app-slidingpanelayout-1.2.0-20 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\5d4482d9d3b60de454bb7e3244d604eb\transformed\slidingpanelayout-1.2.0\res
+com.example.franck.app-activity-1.8.0-21 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\68fa49df0121bc899bdceb4bed1793ad\transformed\activity-1.8.0\res
+com.example.franck.app-viewpager2-1.0.0-22 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\6bbf8268bc1d74ad3c2124e7c4c28653\transformed\viewpager2-1.0.0\res
+com.example.franck.app-activity-ktx-1.8.0-23 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\719b014f92559eeee036049d7c4a54d3\transformed\activity-ktx-1.8.0\res
+com.example.franck.app-savedstate-ktx-1.2.1-24 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\76de944aaf7fd0ffd93cbdc87b48baf9\transformed\savedstate-ktx-1.2.1\res
+com.example.franck.app-lifecycle-process-2.8.0-25 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\res
+com.example.franck.app-core-runtime-2.2.0-26 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\91d1ba30b617aebdc68347dd226d32ff\transformed\core-runtime-2.2.0\res
+com.example.franck.app-annotation-experimental-1.3.0-27 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\936c8d6c58ceeb38f46df14eb20ddd02\transformed\annotation-experimental-1.3.0\res
+com.example.franck.app-databinding-runtime-8.4.1-28 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\9f6ec676d15fa88d094a5df8bc69e0de\transformed\databinding-runtime-8.4.1\res
+com.example.franck.app-profileinstaller-1.3.1-29 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\res
+com.example.franck.app-cardview-1.0.0-30 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a62b23ef6df1ac9bbadb3e6fe641f856\transformed\cardview-1.0.0\res
+com.example.franck.app-lifecycle-livedata-2.8.0-31 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a78ef41622a895f4ba31c395f901948c\transformed\lifecycle-livedata-2.8.0\res
+com.example.franck.app-core-ktx-1.9.0-32 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b485599bc6e6eba3e1ddf16c45282deb\transformed\core-ktx-1.9.0\res
+com.example.franck.app-fragment-1.6.2-33 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b60c8df8ff729be98985602c5303d289\transformed\fragment-1.6.2\res
+com.example.franck.app-core-1.9.0-34 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\res
+com.example.franck.app-savedstate-1.2.1-35 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c55d37eaa394f1f70e5cd5065c856935\transformed\savedstate-1.2.1\res
+com.example.franck.app-appcompat-1.6.1-36 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\cc60a5d7738b39a8dbdde401447b6399\transformed\appcompat-1.6.1\res
+com.example.franck.app-transition-1.4.1-37 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\cf8d7d25d2a2d462fcbb0a0a5afba306\transformed\transition-1.4.1\res
+com.example.franck.app-drawerlayout-1.1.1-38 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\eb5e1d35da921986066fd12188203732\transformed\drawerlayout-1.1.1\res
+com.example.franck.app-emoji2-views-helper-1.2.0-39 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f0797a515ba0d4b83db52c0113ff29a5\transformed\emoji2-views-helper-1.2.0\res
+com.example.franck.app-recyclerview-1.1.0-40 C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f7de8f874b39f06dbf94e81034dc331d\transformed\recyclerview-1.1.0\res
+com.example.franck.app-pngs-41 C:\Users\takam\AndroidStudioProjects\franck\app\build\generated\res\pngs\debug
+com.example.franck.app-resValues-42 C:\Users\takam\AndroidStudioProjects\franck\app\build\generated\res\resValues\debug
+com.example.franck.app-packageDebugResources-43 C:\Users\takam\AndroidStudioProjects\franck\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.franck.app-packageDebugResources-44 C:\Users\takam\AndroidStudioProjects\franck\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.franck.app-debug-45 C:\Users\takam\AndroidStudioProjects\franck\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.franck.app-debug-46 C:\Users\takam\AndroidStudioProjects\franck\app\src\debug\res
+com.example.franck.app-main-47 C:\Users\takam\AndroidStudioProjects\franck\app\src\main\res

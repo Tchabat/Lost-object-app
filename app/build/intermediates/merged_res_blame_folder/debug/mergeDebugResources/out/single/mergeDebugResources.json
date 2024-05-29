@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.example.franck.app-debug-45:/layout_fragment_gallery.xml.flat",
+        "source": "com.example.franck.app-main-47:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.franck.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/menu_main.xml.flat",
+        "source": "com.example.franck.app-main-47:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/layout_content_main.xml.flat",
+        "source": "com.example.franck.app-main-47:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_a67300df3aa67a8b49e19355bb93687a.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/a67300df3aa67a8b49e19355bb93687a.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "com.example.franck.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_imge8.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/imge8.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_imge10.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/imge10.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/layout_fragment_home.xml.flat",
+        "source": "com.example.franck.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_imge3.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/imge3.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/layout_nav_header_main.xml.flat",
+        "source": "com.example.franck.app-main-47:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/layout_app_bar_main.xml.flat",
+        "source": "com.example.franck.app-main-47:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_bag.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/bag.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.franck.app-main-47:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/layout_activity_main2.xml.flat",
+        "source": "com.example.franck.app-main-47:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_imge6.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/imge6.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_imge2.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/imge2.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.franck.app-main-47:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/layout_detail.xml.flat",
+        "source": "com.example.franck.app-main-47:/layout/detail.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.franck.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_imge4.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/imge4.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.franck.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_imge9.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/imge9.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/layout_fragment_slideshow.xml.flat",
+        "source": "com.example.franck.app-main-47:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_imge5.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/imge5.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_imge7.jpg.flat",
+        "source": "com.example.franck.app-main-47:/drawable/imge7.jpg"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.franck.app-main-47:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.franck.app-main-47:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.franck.app-main-47:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.franck.app-main-47:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.franck.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.franck.app-debug-45:/layout_activity_main.xml.flat",
+        "source": "com.example.franck.app-main-47:/layout/activity_main.xml"
+    }
+]

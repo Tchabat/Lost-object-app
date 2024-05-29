@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.franck.app-mergeDebugResources-43:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\takam\\3D Objects\\gradle-8.6\\caches\\transforms-4\\cc60a5d7738b39a8dbdde401447b6399\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

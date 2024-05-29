@@ -1,0 +1,372 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.databinding:databinding-runtime:8.4.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\9f6ec676d15fa88d094a5df8bc69e0de\transformed\databinding-runtime-8.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.4.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\25e01fb48f6d370b2c487d2d4408d3b0\transformed\viewbinding-8.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\527eb1d425750f10714bdb039e78558f\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\06b658a4e3cb16d20514cca5bdbd967b\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2ebcee769a049a96b4481bfd27443209\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1eb0c8b8506fb36ecda6ce2b515dd451\transformed\navigation-ui-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2a585a040c792027881de287eeec1e8c\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\58fdc3b2c388227c83b546373326c838\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1747f00a6186a1f86cdf0ee556cfa634\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\cc60a5d7738b39a8dbdde401447b6399\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\6bbf8268bc1d74ad3c2124e7c4c28653\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b60c8df8ff729be98985602c5303d289\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2df2424a1bb235a0436d0d538a47165d\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\719b014f92559eeee036049d7c4a54d3\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\68fa49df0121bc899bdceb4bed1793ad\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f0797a515ba0d4b83db52c0113ff29a5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\eb5e1d35da921986066fd12188203732\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1c22a674eca2cbbf8660c37c1aa2bb1b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\509227d8223779afd6cc1e49ede6ae02\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\7c6702f6f45ed7f1c6fead433225d900\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\76336d9997fcd0c67babf75e6edd32a9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\5d4482d9d3b60de454bb7e3244d604eb\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f7de8f874b39f06dbf94e81034dc331d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f69ab8754f36ad55e3c895c096bf5f45\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\93228e17ea1dba8fabd389cbff678d88\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b485599bc6e6eba3e1ddf16c45282deb\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2c73c76f4ff6068f96cf4f008584be5c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\cf8d7d25d2a2d462fcbb0a0a5afba306\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a599128dbda63cf43808a416ac8d8253\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\76de944aaf7fd0ffd93cbdc87b48baf9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c55d37eaa394f1f70e5cd5065c856935\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\04a9ddb53be7fd9f52be37deeebc7df6\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\826cd6c95cff02b1287f6fe08f96ba0f\transformed\lifecycle-viewmodel-2.8.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\43bc41625d8edc3d61818fb398a693de\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\09b5e54cceb5e05083b7440ab95abf0c\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\20b4e6f9e655fe0658b34d4f19ed397b\transformed\lifecycle-livedata-core-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\475a26f1762d9188a369c23d2df35a26\transformed\lifecycle-viewmodel-savedstate-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\33a6995c7357cebec48be50fc927aa74\transformed\lifecycle-livedata-core-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a78ef41622a895f4ba31c395f901948c\transformed\lifecycle-livedata-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\59369656d09d8a2b38c8b720bd5e297e\transformed\lifecycle-viewmodel-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\0ce8f5d696bf0045ea966bec0e14db7b\transformed\lifecycle-livedata-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\3bafdc7f636a5a9b444a200f6514143e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a62b23ef6df1ac9bbadb3e6fe641f856\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4c7ea72a34f436debc10f03509b03a73\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f80d1830e93e1beaffb090e40b465ed4\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f35d0314412be8c3fe58317e9b211294\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\91d1ba30b617aebdc68347dd226d32ff\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b69d23cb0f3923a8bc5577688d819816\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a7bddfbf4b4d0e54f262eb359e2762fe\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\fe65eabca99f93db1d9addda9b719c3b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4aa5388824332338060d69722405da3a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\936c8d6c58ceeb38f46df14eb20ddd02\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:5:5-31:19
+INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2a585a040c792027881de287eeec1e8c\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2a585a040c792027881de287eeec1e8c\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\58fdc3b2c388227c83b546373326c838\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\58fdc3b2c388227c83b546373326c838\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4c7ea72a34f436debc10f03509b03a73\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4c7ea72a34f436debc10f03509b03a73\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f35d0314412be8c3fe58317e9b211294\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f35d0314412be8c3fe58317e9b211294\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:13:9-44
+	android:dataExtractionRules
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.franck.DetailActivity
+ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:16:13-43
+activity#com.example.franck.MainActivity2
+ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:19:13-42
+activity#com.example.franck.MainActivity
+ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:24:13-45
+	android:exported
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:25:13-60
+	android:name
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-runtime:8.4.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\9f6ec676d15fa88d094a5df8bc69e0de\transformed\databinding-runtime-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.4.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\9f6ec676d15fa88d094a5df8bc69e0de\transformed\databinding-runtime-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.4.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\25e01fb48f6d370b2c487d2d4408d3b0\transformed\viewbinding-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.4.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\25e01fb48f6d370b2c487d2d4408d3b0\transformed\viewbinding-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\527eb1d425750f10714bdb039e78558f\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\527eb1d425750f10714bdb039e78558f\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\06b658a4e3cb16d20514cca5bdbd967b\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\06b658a4e3cb16d20514cca5bdbd967b\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2ebcee769a049a96b4481bfd27443209\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2ebcee769a049a96b4481bfd27443209\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1eb0c8b8506fb36ecda6ce2b515dd451\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1eb0c8b8506fb36ecda6ce2b515dd451\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2a585a040c792027881de287eeec1e8c\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2a585a040c792027881de287eeec1e8c\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\58fdc3b2c388227c83b546373326c838\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\58fdc3b2c388227c83b546373326c838\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1747f00a6186a1f86cdf0ee556cfa634\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1747f00a6186a1f86cdf0ee556cfa634\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\cc60a5d7738b39a8dbdde401447b6399\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\cc60a5d7738b39a8dbdde401447b6399\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\6bbf8268bc1d74ad3c2124e7c4c28653\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\6bbf8268bc1d74ad3c2124e7c4c28653\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b60c8df8ff729be98985602c5303d289\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b60c8df8ff729be98985602c5303d289\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2df2424a1bb235a0436d0d538a47165d\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2df2424a1bb235a0436d0d538a47165d\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\719b014f92559eeee036049d7c4a54d3\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\719b014f92559eeee036049d7c4a54d3\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\68fa49df0121bc899bdceb4bed1793ad\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\68fa49df0121bc899bdceb4bed1793ad\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f0797a515ba0d4b83db52c0113ff29a5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f0797a515ba0d4b83db52c0113ff29a5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\eb5e1d35da921986066fd12188203732\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\eb5e1d35da921986066fd12188203732\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1c22a674eca2cbbf8660c37c1aa2bb1b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\1c22a674eca2cbbf8660c37c1aa2bb1b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\509227d8223779afd6cc1e49ede6ae02\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\509227d8223779afd6cc1e49ede6ae02\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\7c6702f6f45ed7f1c6fead433225d900\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\7c6702f6f45ed7f1c6fead433225d900\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\76336d9997fcd0c67babf75e6edd32a9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\76336d9997fcd0c67babf75e6edd32a9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\5d4482d9d3b60de454bb7e3244d604eb\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\5d4482d9d3b60de454bb7e3244d604eb\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f7de8f874b39f06dbf94e81034dc331d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f7de8f874b39f06dbf94e81034dc331d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f69ab8754f36ad55e3c895c096bf5f45\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f69ab8754f36ad55e3c895c096bf5f45\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\93228e17ea1dba8fabd389cbff678d88\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\93228e17ea1dba8fabd389cbff678d88\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b485599bc6e6eba3e1ddf16c45282deb\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b485599bc6e6eba3e1ddf16c45282deb\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2c73c76f4ff6068f96cf4f008584be5c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\2c73c76f4ff6068f96cf4f008584be5c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\cf8d7d25d2a2d462fcbb0a0a5afba306\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\cf8d7d25d2a2d462fcbb0a0a5afba306\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a599128dbda63cf43808a416ac8d8253\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a599128dbda63cf43808a416ac8d8253\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\76de944aaf7fd0ffd93cbdc87b48baf9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\76de944aaf7fd0ffd93cbdc87b48baf9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c55d37eaa394f1f70e5cd5065c856935\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c55d37eaa394f1f70e5cd5065c856935\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\04a9ddb53be7fd9f52be37deeebc7df6\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\04a9ddb53be7fd9f52be37deeebc7df6\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\826cd6c95cff02b1287f6fe08f96ba0f\transformed\lifecycle-viewmodel-2.8.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\826cd6c95cff02b1287f6fe08f96ba0f\transformed\lifecycle-viewmodel-2.8.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\43bc41625d8edc3d61818fb398a693de\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\43bc41625d8edc3d61818fb398a693de\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\09b5e54cceb5e05083b7440ab95abf0c\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\09b5e54cceb5e05083b7440ab95abf0c\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\20b4e6f9e655fe0658b34d4f19ed397b\transformed\lifecycle-livedata-core-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\20b4e6f9e655fe0658b34d4f19ed397b\transformed\lifecycle-livedata-core-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\475a26f1762d9188a369c23d2df35a26\transformed\lifecycle-viewmodel-savedstate-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\475a26f1762d9188a369c23d2df35a26\transformed\lifecycle-viewmodel-savedstate-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\33a6995c7357cebec48be50fc927aa74\transformed\lifecycle-livedata-core-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\33a6995c7357cebec48be50fc927aa74\transformed\lifecycle-livedata-core-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a78ef41622a895f4ba31c395f901948c\transformed\lifecycle-livedata-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a78ef41622a895f4ba31c395f901948c\transformed\lifecycle-livedata-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\59369656d09d8a2b38c8b720bd5e297e\transformed\lifecycle-viewmodel-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\59369656d09d8a2b38c8b720bd5e297e\transformed\lifecycle-viewmodel-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\0ce8f5d696bf0045ea966bec0e14db7b\transformed\lifecycle-livedata-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\0ce8f5d696bf0045ea966bec0e14db7b\transformed\lifecycle-livedata-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\3bafdc7f636a5a9b444a200f6514143e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\3bafdc7f636a5a9b444a200f6514143e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a62b23ef6df1ac9bbadb3e6fe641f856\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a62b23ef6df1ac9bbadb3e6fe641f856\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4c7ea72a34f436debc10f03509b03a73\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4c7ea72a34f436debc10f03509b03a73\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f80d1830e93e1beaffb090e40b465ed4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f80d1830e93e1beaffb090e40b465ed4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f35d0314412be8c3fe58317e9b211294\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\f35d0314412be8c3fe58317e9b211294\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\91d1ba30b617aebdc68347dd226d32ff\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\91d1ba30b617aebdc68347dd226d32ff\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b69d23cb0f3923a8bc5577688d819816\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\b69d23cb0f3923a8bc5577688d819816\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a7bddfbf4b4d0e54f262eb359e2762fe\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a7bddfbf4b4d0e54f262eb359e2762fe\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\fe65eabca99f93db1d9addda9b719c3b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\fe65eabca99f93db1d9addda9b719c3b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4aa5388824332338060d69722405da3a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4aa5388824332338060d69722405da3a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\936c8d6c58ceeb38f46df14eb20ddd02\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\936c8d6c58ceeb38f46df14eb20ddd02\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\takam\AndroidStudioProjects\franck\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4c7ea72a34f436debc10f03509b03a73\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\4c7ea72a34f436debc10f03509b03a73\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\408d6fbad9981c37594e7b08f508fff3\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\07b0459735a4ff5a15ce5bc79fd54c5d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.franck.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.franck.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\c06da0a6e017617af7809f7afdfb9daf\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\831c19899a5bd554d9d2700f5e105e95\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\takam\3D Objects\gradle-8.6\caches\transforms-4\a4f9eae292112e84d8321ad06b012f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
